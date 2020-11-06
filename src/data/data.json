@@ -1,0 +1,35 @@
+{
+  "cardName": "profile",
+  "contents": [
+    {
+      "name": "David Ford",
+      "location": "Rye Golf Club (Old), UK",
+      "quality": 80,
+      "handicap": "PRO",
+      "sgTotal": 4.14,
+      "imgUrl": "https://i0.wp.com/365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png?resize=502%2C494&ssl=1",
+      "sg": {
+        "ott": 2.02,
+        "app": -1.04,
+        "arg": 2.08,
+        "put": 1.08
+      },
+      "latestActivity": " 68 (-4), The Shire, UK",
+      "strokes": [
+        0,
+        -0.3,
+        0.2,
+        -0.5,
+        -0.2,
+        -1.1,
+        -0.9,
+        -2,
+        -1.1,
+        -0.9,
+        -1.8,
+        0.0,
+        2
+      ]
+    }
+  ]
+}

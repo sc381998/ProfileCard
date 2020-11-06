@@ -1,0 +1,42 @@
+body {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  font-family: "Roboto", sans-serif;
+}
+.header {
+  border-bottom: 2px solid #eee;
+  height: 50px;
+}
+.center {
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 5px;
+  height: 8px;
+  background: #000;
+}
+.flex {
+  display: flex;
+}
+.grayBox {
+  width: 23px;
+  height: 8px;
+}
+.mr-2 {
+  margin: 0 2px 0 0;
+}
+.ml-2 {
+  margin: 0 0 0 2px;
+}
+.blackLine {
+  line-height: 5;
+  background: #000;
+  width: 3px;
+  height: 10px;
+  margin: 0;
+}
